@@ -29,6 +29,6 @@ const Project = defineAsyncComponent(() =>
 );
 
 const Contact = defineAsyncComponent(() =>
-  import("@/components/ContactSection.vue")
+  import("@/components/ConnectSection.vue")
 );
 </script>
