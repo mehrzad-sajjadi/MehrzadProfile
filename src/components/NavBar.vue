@@ -61,8 +61,8 @@ const menu = ref([
   { name: "About Me", href: "#about" },
   { name: "Skills", href: "#skills" },
   { name: "Projects", href: "#projects" },
-  { name: "Testimonials", href: "#testimonials" },
-  { name: "Contact", href: "#contact" },
+  { name: "Comments", href: "#comments" },
+  { name: "Connetc", href: "#connetc" },
 ]);
 
 const scrollToSection = (href) => {

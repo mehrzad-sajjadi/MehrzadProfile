@@ -6,6 +6,7 @@
     <About></About>
     <Skill></Skill>
     <Project></Project>
+    <Comment></Comment>
     <Contact></Contact>
   </div>
 </template>
@@ -30,5 +31,8 @@ const Project = defineAsyncComponent(() =>
 
 const Contact = defineAsyncComponent(() =>
   import("@/components/ConnectSection.vue")
+);
+const Comment = defineAsyncComponent(() =>
+  import("@/components/CommentSection.vue")
 );
 </script>
