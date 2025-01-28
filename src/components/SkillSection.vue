@@ -50,7 +50,7 @@
               </div>
               <div class="w-3/4 pl-4">
                 <h3
-                  class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary"
+                  class="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary"
                 >
                   {{ experience.role }}
                 </h3>
@@ -87,8 +87,15 @@ const skills = ref([
 
 const experiences = ref([
   {
+    id: 3,
+    role: "Front-End developer",
+    company: "Eghamat24",
+    date: "1403/10/9 - present",
+  },
+
+  {
     id: 1,
-    role: "Full-stack developer",
+    role: "Full-Stack developer",
     company: "Salayan",
     date: "1403/2/1 - 1403/9/22",
   },
