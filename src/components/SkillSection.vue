@@ -80,6 +80,11 @@ const skills = ref([
   },
   {
     id: 3,
+    name: "ReactJS",
+    width: "20%",
+  },
+  {
+    id: 4,
     name: "Tailwindcss",
     width: "87%",
   },
