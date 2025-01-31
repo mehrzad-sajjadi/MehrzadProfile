@@ -8,6 +8,7 @@
     <Project></Project>
     <Comment></Comment>
     <Contact></Contact>
+    <BackToTop></BackToTop>
   </div>
 </template>
 <script setup>
@@ -34,5 +35,8 @@ const Contact = defineAsyncComponent(() =>
 );
 const Comment = defineAsyncComponent(() =>
   import("@/components/CommentSection.vue")
+);
+const BackToTop = defineAsyncComponent(() =>
+  import("@/components/BackToTop.vue")
 );
 </script>

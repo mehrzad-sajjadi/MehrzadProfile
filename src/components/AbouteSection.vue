@@ -50,10 +50,13 @@
           Me
         </h2>
         <p class="text-base lg:text-lg mt-8 py-8 text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
-          praesentium, quibusdam distinctio quam tempora officiis ad suscipit,
-          tenetur in at fugiat repellat voluptate laboriosam eaque eius quasi
-          consectetur doloremque provident!
+          A creative and passionate software engineer with expertise in
+          **Laravel**, **Vue.js**, dedicated to building dynamic and scalable
+          web applications. By combining deep knowledge of modern frameworks
+          with hands-on experience in designing interactive user interfaces, I
+          craft solutions that deliver high performance and exceptional user
+          experiences. Always eager to embrace new opportunities for learning
+          and innovation, I strive to create software that exceeds expectations.
         </p>
 
         <div class="grid grid-cols-3 gap-4 max-w-lg pt-8">
